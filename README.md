@@ -1,18 +1,9 @@
-# KiNGFurQaN — Portfolio of Furqan Loharia
+# Furqan Loharia
 
-This repository is the public portfolio for Furqan Loharia — Database Administrator (DBA).
+Welcome to my profile portfolio!
 
-Public content
-- CV / resume (CV.md)
-- Portfolio homepage (index.html)
-- Articles and public examples (articles/ and examples/ — add as needed)
+## Contact
 
-Private scripts
-- Operational scripts and credentials must NOT be stored in public repositories. See PRIVATE-SCRIPTS-README.md for guidance and a recommended private repo layout named `DBA_Scripts`.
+Email: [your_email@example.com](mailto:your_email@example.com)
 
-Contact
-- Name: Furqan Loharia
-- Email: (add your professional email)
-- LinkedIn: (add your LinkedIn URL)
-
-License: MIT (see LICENSE)
+Feel free to reach out for any inquiries or collaborations!
